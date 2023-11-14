@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hwi.github.io/static/css/main.989a33c8.css",
-    "main.js": "/hwi.github.io/static/js/main.c90c45b3.js",
+    "main.css": "/hwi.github.io/static/css/main.2ae08e60.css",
+    "main.js": "/hwi.github.io/static/js/main.75a70007.js",
     "static/js/787.351091a8.chunk.js": "/hwi.github.io/static/js/787.351091a8.chunk.js",
     "static/media/hwi.png": "/hwi.github.io/static/media/hwi.a48eeaa335d5969b0184.png",
     "index.html": "/hwi.github.io/index.html",
-    "main.989a33c8.css.map": "/hwi.github.io/static/css/main.989a33c8.css.map",
-    "main.c90c45b3.js.map": "/hwi.github.io/static/js/main.c90c45b3.js.map",
+    "main.2ae08e60.css.map": "/hwi.github.io/static/css/main.2ae08e60.css.map",
+    "main.75a70007.js.map": "/hwi.github.io/static/js/main.75a70007.js.map",
     "787.351091a8.chunk.js.map": "/hwi.github.io/static/js/787.351091a8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.989a33c8.css",
-    "static/js/main.c90c45b3.js"
+    "static/css/main.2ae08e60.css",
+    "static/js/main.75a70007.js"
   ]
 }
