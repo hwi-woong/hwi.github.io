@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/hwi.github.io/static/css/main.26dcb1a4.css",
-    "main.js": "/hwi.github.io/static/js/main.0c99b787.js",
+    "main.css": "/hwi.github.io/static/css/main.01dca673.css",
+    "main.js": "/hwi.github.io/static/js/main.fe0255fb.js",
     "static/js/787.351091a8.chunk.js": "/hwi.github.io/static/js/787.351091a8.chunk.js",
+    "static/media/project6.jpg": "/hwi.github.io/static/media/project6.0e7d72fbcb78407ba94f.jpg",
+    "static/media/project5.png": "/hwi.github.io/static/media/project5.87b33fb3657c2bb960fa.png",
+    "static/media/project4.png": "/hwi.github.io/static/media/project4.d17c1f18486bdbc8344e.png",
     "static/media/hwi.png": "/hwi.github.io/static/media/hwi.a48eeaa335d5969b0184.png",
+    "static/media/project1.png": "/hwi.github.io/static/media/project1.4d9ca8a68f3b8f44d2b6.png",
+    "static/media/project3.png": "/hwi.github.io/static/media/project3.cbaa22b1c6b54361b3e3.png",
+    "static/media/project2.png": "/hwi.github.io/static/media/project2.8f1232fc89555cb1a2f1.png",
     "index.html": "/hwi.github.io/index.html",
-    "main.26dcb1a4.css.map": "/hwi.github.io/static/css/main.26dcb1a4.css.map",
-    "main.0c99b787.js.map": "/hwi.github.io/static/js/main.0c99b787.js.map",
+    "main.01dca673.css.map": "/hwi.github.io/static/css/main.01dca673.css.map",
+    "main.fe0255fb.js.map": "/hwi.github.io/static/js/main.fe0255fb.js.map",
     "787.351091a8.chunk.js.map": "/hwi.github.io/static/js/787.351091a8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.26dcb1a4.css",
-    "static/js/main.0c99b787.js"
+    "static/css/main.01dca673.css",
+    "static/js/main.fe0255fb.js"
   ]
 }
