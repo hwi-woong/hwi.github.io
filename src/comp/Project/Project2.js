@@ -25,17 +25,43 @@ const Image = styled.img`
   margin: 0 10px; /* Adjust the margin as needed */
 `;
 
+const LinksContainer = styled.div`
+  margin-top: 10px;
+`;
+
+const GitHubLink = styled.a`
+  margin-right: 20px;
+  font-size: 2.2rem;
+  color: blue;
+  text-decoration: none;
+`;
+
+const WebsiteLink = styled.a`
+  font-size: 2.2rem;
+  color: green;
+  text-decoration: none;
+`;
+
 function Project2() {
   return (
     <Box>
       <h1 style={{ fontSize: '2rem', marginBottom: '5px' }}>연합프로젝트</h1>
       <ImageContainer>
-      <Image src={Project4} alt="react" />
+        <Image src={Project4} alt="react" />
         <p style={{ fontSize: '1rem', margin: '5px' }}>
-        <li style={{ fontSize: '2rem' }}>프로젝트 기획</li>
-        <li style={{ fontSize: '2rem' }}>프론트엔드 담당</li></p>
+          <li style={{ fontSize: '2rem' }}>프로젝트 기획</li>
+          <li style={{ fontSize: '2rem' }}>프론트엔드 담당</li>
+        </p>
         <Image src={Project5} alt="react" />
       </ImageContainer>
+      <LinksContainer>
+        <GitHubLink href="https://github.com/TAVE-balak/OTTify-frontend" target="_blank">
+          GitHub로 (바로가기)
+        </GitHubLink>
+        <WebsiteLink href="http://ottify.kro.kr/" target="_blank">
+          사이트로 (바로가기)
+        </WebsiteLink>
+      </LinksContainer>
     </Box>
   );
 }
