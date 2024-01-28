@@ -1,0 +1,28 @@
+.banner {
+    background-color: white;
+    /* Yellow color */
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner-content {
+    color: black;
+    font-size: 30px;
+    /* Increase the font size to 30px */
+    font-family: Arial, sans-serif;
+    /* Use Arial font with a fallback to a generic sans-serif font */
+}
+
+.text-overlay {
+    position: absolute;
+    top: 5px;
+    left: 630px;
+    color: black;
+    background-color: white;
+    padding: 10px;
+    font-size: 15px;
+    margin-top: 60px;
+}

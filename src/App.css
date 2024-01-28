@@ -1,0 +1,49 @@
+/* 헤더 스타일 */
+.header {
+  background: rgb(11, 128, 11);
+  /* 배경색 설정 - RGB 값으로 녹색 */
+  display: table;
+  /* 요소를 테이블 형태로 표시 */
+  width: 100%;
+  /* 전체 너비의 100%로 설정 */
+}
+
+/* 각 항목 스타일 */
+.item {
+  text-align: center;
+  /* 텍스트 가운데 정렬 */
+  padding-top: 10px;
+  /* 위쪽 여백 10px */
+  padding-bottom: 10px;
+  /* 아래쪽 여백 10px */
+  display: table-cell;
+  /* 요소를 테이블 셀로 표시 */
+  color: white;
+  /* 글자색을 흰색으로 설정 */
+  text-decoration: none;
+  /* 텍스트에 밑줄 제거 */
+  font-size: 1.1rem;
+  /* 폰트 크기 1.1rem */
+  margin: 5px;
+  /* 네 방향 마진을 동일하게 설정 */
+  margin-top: 5px;
+  /* 위쪽 마진 5px */
+  margin-right: 10px;
+  /* 오른쪽 마진 10px */
+  margin-bottom: 5px;
+  /* 아래쪽 마진 5px */
+  margin-left: 10px;
+  /* 왼쪽 마진 10px */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  /* 그림자 설정 */
+  /* 예시 박스 그림자 */
+}
+
+/* 호버(hover) 상태일 때의 스타일 */
+.item:hover {
+  background: orange;
+  /* 배경색을 오렌지로 변경 */
+  box-shadow: 0 8px 16px rgba(15, 15, 15, 0.3);
+  /* 호버 시 그림자 설정 변경 */
+  /* 호버 상태일 때의 박스 그림자 */
+}
