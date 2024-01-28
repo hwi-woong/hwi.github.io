@@ -1,0 +1,65 @@
+/* 표 전체 스타일 */
+table {
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 1.5em;
+    background-color: whitesmoke;
+    /* 원하는 색상으로 변경 가능 */
+    margin: 20px;
+    /* Adjust the value according to your preference */
+}
+
+/* 표 제목 스타일 */
+caption {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 20px;
+    color: skyblue;
+    /* 원하는 제목 색상으로 변경 가능 */
+}
+
+/* 표 셀 스타일 */
+td,
+th {
+    width: 30%;
+    border: 2px solid skyblue;
+    padding: 5px;
+}
+
+tr {
+    height: 10%;
+}
+
+.intern-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-direction: row;
+    /* Display buttons horizontally */
+}
+
+.intern-buttons button {
+    background-color: rgb(136, 210, 136);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 1.2em;
+}
+
+.intern-buttons button:hover {
+    background-color: rgb(0, 140, 255);
+}
+
+
+#pledge {
+    text-align: right;
+    width: 70%;
+
+    font-family: "bold";
+    margin-left: 10%;
+}

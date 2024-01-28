@@ -1,0 +1,23 @@
+#selfIntro {
+  font-family: "Song Myung", serif;
+  margin-left: 20px;
+  font-size: 50px;
+  /* 글자 크기를 20px로 변경 */
+  border: 5pt solid #3f51b5;
+  /* 테두리를 실선으로 변경 */
+}
+
+h3 {
+  color: black;
+}
+
+.division {
+  margin-left: 10px;
+}
+
+p {
+  font-size: 50px;
+  /* 글자 크기를 20px로 변경 */
+  border: 7px solid blue;
+  /* 테두리를 실선으로 변경 */
+}
